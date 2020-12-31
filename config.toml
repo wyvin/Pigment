@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 
 # [en, zh-cn, fr, ...] 设置默认的语言
-defaultContentLanguage = "zh-cn"
+defaultContentLanguage = "en"
 
 # 网站语言, 仅在这里 CN 大写
 languageCode = "zh-CN"
@@ -48,7 +48,7 @@ theme = "LoveIt"
   # LoveIt 主题版本
   version = "0.2.X"
   # 网站描述
-  description = "asdfasdf "
+  description = "desc"
   # 网站关键词
   keywords = ["Theme", "Hugo"]
   # 网站默认主题样式 ("light", "dark", "auto")
@@ -111,7 +111,7 @@ theme = "LoveIt"
       # LOGO 的 URL
       logo = ""
       # 标题名称
-      name = ""
+      name = "Pigment"
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
@@ -127,7 +127,7 @@ theme = "LoveIt"
     # LoveIt 新增 | 0.2.0 是否显示 Hugo 和主题信息
     hugo = false
     # LoveIt 新增 | 0.2.0 是否显示版权信息
-    copyright = false
+    copyright = true
     # LoveIt 新增 | 0.2.0 是否显示作者
     author = true
     # 网站创立年份
@@ -135,7 +135,7 @@ theme = "LoveIt"
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     icp = ""
     # 许可协议信息 (支持 HTML 格式)
-    license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+    # license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
   # LoveIt 新增 | 0.2.0 Section (所有文章) 页面配置
   [params.section]
@@ -169,9 +169,9 @@ theme = "LoveIt"
       # LoveIt 更改 | 0.2.7 主页显示的网站标题 (支持 HTML 格式)
       title = "wyvin"
       # 主页显示的网站副标题
-      subtitle = "醉后不知天在水，满船清梦压星河"
+      subtitle = "for alive { learning() }"
       # 是否为副标题显示打字机动画
-      typeit = false
+      typeit = true
       # 是否显示社交账号
       social = true
       # LoveIt 新增 | 0.2.0 免责声明 (支持 HTML 格式)

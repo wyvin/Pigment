@@ -4,7 +4,7 @@ date: 2021-04-17T12:42:16+08:00
 lastmod: 2021-04-17T12:42:16+08:00
 draft: false
 
-tags: ["golang","install"]
+tags: ["golang"]
 categories: ["golang"]
 
 summary: "在同一台机器上安装多个Go版本"
